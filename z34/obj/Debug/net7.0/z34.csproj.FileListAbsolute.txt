@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/bin/Debug/net7.0/z34
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/bin/Debug/net7.0/z34.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/bin/Debug/net7.0/z34.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/bin/Debug/net7.0/z34.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/bin/Debug/net7.0/z34.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/refint/z34.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/z34.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/z34/obj/Debug/net7.0/ref/z34.dll
