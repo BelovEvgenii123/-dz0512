@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/bin/Debug/net7.0/zdop1
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/bin/Debug/net7.0/zdop1.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/bin/Debug/net7.0/zdop1.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/bin/Debug/net7.0/zdop1.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/bin/Debug/net7.0/zdop1.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/refint/zdop1.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/zdop1.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop1/obj/Debug/net7.0/ref/zdop1.dll

@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/bin/Debug/net7.0/zdop202
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/bin/Debug/net7.0/zdop202.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/bin/Debug/net7.0/zdop202.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/bin/Debug/net7.0/zdop202.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/bin/Debug/net7.0/zdop202.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/refint/zdop202.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/zdop202.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/0512/zdop202/obj/Debug/net7.0/ref/zdop202.dll
